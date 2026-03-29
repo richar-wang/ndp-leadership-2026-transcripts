@@ -37,7 +37,7 @@ This is our team — and this is just some of the people who have propelled this
 
 Our campaign has become a gathering place for people who are ready — ready to get out and build the world we deserve ourselves. And we are doing it in the way that it should be done: we're doing it with art and music and laughter and celebration and friendship and with love.
 
-It is my absolute honor to introduce three of the people who have helped us along the way. We're so grateful to have with us this morning to nominate Avi Lewis: the legendary MP of Winnipeg Centre, Leah Gazan; our next MPP president, Nile Ricardo; and author, activist, and Avi Lewis super-fan, Naomi Klein.
+It is my absolute honor to introduce three of the people who have helped us along the way. We're so grateful to have with us this morning to nominate Avi Lewis: the legendary MP of Winnipeg Centre, Leah Gazan; our next MPP president, Niall Ricardo \[corrected: Nile\]; and author, activist, and Avi Lewis super-fan, Naomi Klein.
 
 Please give it up!
 
@@ -69,7 +69,7 @@ Join us. Let's build a party for the 99% together that will take on the billiona
 
 ---
 
-## Nile Ricardo
+## Niall Ricardo \[corrected: Nile\]
 
 Dear friends, dear comrades. I am speaking to you today with conviction, because this party is mine. It is ours.
 

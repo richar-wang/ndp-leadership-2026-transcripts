@@ -9,11 +9,11 @@
 
 ---
 
-## Eric Iberadili, Chief Electoral Officer, NDP Leadership Race
+## Éric Hébert-Daly \[corrected: Iberadili\], Chief Electoral Officer, NDP Leadership Race
 
 Bonjour, neodémocrate. Hello, new-démocrate.
 
-My name is Eric Iberadili, and I'm the chief electoral officer for the NDP leadership race. Eight months ago, the federal council of the NDP put together a set of rules and asked me to serve in the role of CEO. I have to tell you that it was an incredible honor to serve the party in this way, and I'm really grateful for the trust that you placed in me. I must also thank Ali Chatour, who ably supported me throughout this campaign. I couldn't have done it without him.
+My name is Éric Hébert-Daly, and I'm the chief electoral officer for the NDP leadership race. Eight months ago, the federal council of the NDP put together a set of rules and asked me to serve in the role of CEO. I have to tell you that it was an incredible honor to serve the party in this way, and I'm really grateful for the trust that you placed in me. I must also thank Ali Chatour, who ably supported me throughout this campaign. I couldn't have done it without him.
 
 Our movement, since its inception, has always explained clearly the importance of renewing our democracy. During this campaign, I noticed with a lot of joy the enthusiasm and the energy that the NDP members showed. And after difficult results during the last election, your passion throughout this campaign was a source of inspiration. Thank you. Thank you.
 
@@ -31,7 +31,7 @@ And now, for the results:
 
 - **Tony McQuail:** 945 votes. *\[applause\]*
 - **Rob Ashton:** 4,181 votes. *\[applause\]*
-- **Tenille Johnston:** 5,159 votes. *\[applause\]*
+- **Tanille \[corrected: Tenille\] Johnston:** 5,159 votes. *\[applause\]*
 - **Heather McPherson:** 20,899 votes. *\[applause\]*
 - **Avi \[corrected: avis\] Lewis:** 39,734 votes. *\[cheers\]*
 
@@ -65,7 +65,7 @@ After seven months of campaigning across this country and speaking to thousands 
 
 In the lineup featured in this race, four other candidates — deep New Democrats making a unique and powerful contribution.
 
-Tenille, you're a sensation and a rising star. You've redefined what politics in our party can look like — funny, honest, and rooted in Indigenous ways.
+Tanille, you're a sensation and a rising star. You've redefined what politics in our party can look like — funny, honest, and rooted in Indigenous ways.
 
 Tony, you've made sure that we never forget the importance of changing our undemocratic first-past-the-post system. Thank you for that.
 
