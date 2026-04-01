@@ -1,0 +1,35 @@
+{
+  "text": "Read Avi's full plan for party renewal\nhere\n.\n\nThe NDP is unique among political parties in Canada. We were born out of a movement of farmers, trade unionists,\nand feminists in an era where fascism was knocking on the door, and social solidarity was essential to resisting\nits rise.\n\nThere's no question that this is a challenging time for New Democrats. But our campaign believes that we can build\nback stronger than we ever have before; the NDP's best days are still ahead of us.\n\nThe way to rebuild our party is by empowering and trusting our members, fostering community and belonging,\nspeaking plainly to voters, and revitalizing our internal democracy. This is how we can transform our party into a\nyear-round organizing machine from coast-to-coast-to-coast and win power in Parliament.\n\nTo achieve this, we are proposing a plan to grow our party into a resilient movement:\n\nMake Membership Matter\n\nWe will build a people-powered movement by empowering our members and Electoral District Associations (EDAs)\nwith the trust, tools, and funding opportunities they need. Make policy development more inclusive and\ndemocratic. Engage in accessible political education. Strengthen our party's equity and regional commissions.\nGovern with transparency and open communications. Conduct fundraising with gratitude and respect.\n\nBuild Power to Win Change and Elections\n\nTo win power, we will engage in a culture of year-round organizing. Trainings will be more frequent and\naccessible, and ideally in person. We'll nominate candidates early and conduct a review of nomination and\nvetting processes to ensure that when elections are called, we're ready. Demand an end to \"First Past the Post\"\nelections and the establishment of a Citizen's Assembly on Electoral Reform to win the transformative change we\nneed.\n\nOur Path to Victory: The Big Tent\n\nWinning again means building a broad coalition that can be a force for transformative change. Focus on growing\nour presence and strength in the suburbs through dedication to community. Dedicate concrete efforts to winning\nrural, remote and Northern ridings. Build towards a second orange wave in Québec not just through speaking\nFrench, but by building policy and practice out of a deep understanding of Québec's distinct role in Canada, its\npolitics, culture, and history. Support youth leadership development with mentorship opportunities and rebuild\nour alliances with labour and social movements.\n\nA Political Instrument of the People\n\nPledge your vote for Avi and support the campaign",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Read Avi's full plan for party renewal\nhere\n.\n\nThe NDP is unique among political parties in Canada. We were born out of a movement of farmers, trade unionists,\nand feminists in an era where fascism was knocking on the door, and social solidarity was essential to resisting\nits rise.\n\nThere's no question that this is a challenging time for New Democrats. But our campaign believes that we can build\nback stronger than we ever have before; the NDP's best days are still ahead of us.\n\nThe way to rebuild our party is by empowering and trusting our members, fostering community and belonging,\nspeaking plainly to voters, and revitalizing our internal democracy. This is how we can transform our party into a\nyear-round organizing machine from coast-to-coast-to-coast and win power in Parliament.\n\nTo achieve this, we are proposing a plan to grow our party into a resilient movement:\n\nMake Membership Matter\n\nWe will build a people-powered movement by empowering our members and Electoral District Associations (EDAs)\nwith the trust, tools, and funding opportunities they need. Make policy development more inclusive and\ndemocratic. Engage in accessible political education. Strengthen our party's equity and regional commissions.\nGovern with transparency and open communications. Conduct fundraising with gratitude and respect.\n\nBuild Power to Win Change and Elections\n\nTo win power, we will engage in a culture of year-round organizing. Trainings will be more frequent and\naccessible, and ideally in person. We'll nominate candidates early and conduct a review of nomination and\nvetting processes to ensure that when elections are called, we're ready. Demand an end to \"First Past the Post\"\nelections and the establishment of a Citizen's Assembly on Electoral Reform to win the transformative change we\nneed.\n\nOur Path to Victory: The Big Tent\n\nWinning again means building a broad coalition that can be a force for transformative change. Focus on growing\nour presence and strength in the suburbs through dedication to community. Dedicate concrete efforts to winning\nrural, remote and Northern ridings. Build towards a second orange wave in Québec not just through speaking\nFrench, but by building policy and practice out of a deep understanding of Québec's distinct role in Canada, its\npolitics, culture, and history. Support youth leadership development with mentorship opportunities and rebuild\nour alliances with labour and social movements.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.02173714153468609,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2443,
+      "word_count": 381,
+      "token_length": 488
+    },
+    {
+      "text": "\n\nA Political Instrument of the People\n\nPledge your vote for Avi and support the campaign",
+      "label": "Human Written",
+      "ai_assistance_score": 0.02173714153468609,
+      "confidence": "High",
+      "start_index": 2443,
+      "end_index": 2532,
+      "word_count": 15,
+      "token_length": 18
+    }
+  ]
+}

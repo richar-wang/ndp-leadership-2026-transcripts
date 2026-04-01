@@ -1,0 +1,25 @@
+{
+  "text": "Heather McPherson learned her leadership style early in life when her family would take the doors off their hinges to build a bigger table, so everyone had a place. She’s carried that lesson throughout her life: leadership is about making room, not shutting people out.\n\nBefore politics, Heather spent nearly 20 years in the non-profit sector, working for human rights, sustainable development, and global justice. With a Master’s degree in education focused on Indigenous knowledge and sustainability, she has always been grounded in service and fairness.\n\nIn Parliament, Heather has taken on the toughest files – from foreign affairs, human rights, and international trade to health care, seniors, and culture. She has forced government action on building a more peaceful and just world, and advanced legislation to protect pensions, defend public health care, strengthen environmental reviews, and support people living with ADHD.\n\nHeather is fearless, fiercely fair, and a builder – leading by opening doors and making space for everyone.",
+  "version": "3.2",
+  "headline": "Fully AI Generated",
+  "prediction": "We are confident that this document is fully AI-generated",
+  "prediction_short": "AI",
+  "fraction_ai": 1.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 0.0,
+  "num_ai_segments": 1,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 0,
+  "windows": [
+    {
+      "text": "Heather McPherson learned her leadership style early in life when her family would take the doors off their hinges to build a bigger table, so everyone had a place. She’s carried that lesson throughout her life: leadership is about making room, not shutting people out.\n\nBefore politics, Heather spent nearly 20 years in the non-profit sector, working for human rights, sustainable development, and global justice. With a Master’s degree in education focused on Indigenous knowledge and sustainability, she has always been grounded in service and fairness.\n\nIn Parliament, Heather has taken on the toughest files – from foreign affairs, human rights, and international trade to health care, seniors, and culture. She has forced government action on building a more peaceful and just world, and advanced legislation to protect pensions, defend public health care, strengthen environmental reviews, and support people living with ADHD.\n\nHeather is fearless, fiercely fair, and a builder – leading by opening doors and making space for everyone.",
+      "label": "AI-Generated",
+      "ai_assistance_score": 0.6662644147872925,
+      "confidence": "Medium",
+      "start_index": 0,
+      "end_index": 1042,
+      "word_count": 160,
+      "token_length": 199
+    }
+  ]
+}

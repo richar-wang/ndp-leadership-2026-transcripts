@@ -1,0 +1,35 @@
+{
+  "text": "Read Avi's full plan for public options to make life more affordable\nhere\n.\n\nIn so many sectors of our economy, the market is failing us. While families are forced to choose between groceries\nand rent, three grocery giants dominate our food system and make billions in profits. Three big telecom companies\nmonopolize our phone and internet plans. Five big banks control our financial services sector. The result? Their\nCEOs get rich, Canadians get gouged.\n\nThe cost of living crisis we face today demands bold solutions. That means expanding public ownership to lower\nbills and improve services while creating good union jobs in the process.\n\nNDP governments have shown how that's possible. Whether it's public auto insurance in Manitoba, the agricultural\nland reserve to protect food security in BC, a public telecom provider in Saskatchewan, or of course, Medicare,\nour party has created public institutions that continue to make people's lives better and more affordable decades\nafter their creation.\n\nIt's time to take the power back from the price-fixing corporate cartels that have a stranglehold on our economy\nand put it in the hands of the people. It's time to build a new generation of public options to reduce costs and\nraise our quality of life. That's why an Avi-led NDP will push for:\n\nA public option for groceries\n\nA low-cost public alternative to the big grocery chains. By using a high volume, warehouse style model with\nsubsidized rent and utilities, and backed up by networked local and regional food hubs to bring in local foods,\ngrocery costs could be cut by as much as 30-40%.\n\nA network of public telecom providers\n\nA range of public options to lower telecom prices across the country, including a network of public telecom\nservice providers —inspired by the success of Saskatchewan's publicly-owned SaskTel —to guarantee universal,\naffordable and high-speed connectivity, including in rural, remote and Indigenous communities.\n\nBuilding a million public homes\n\nA public builder to deliver one million social, co-op, non-profit and supportive homes within five years,\ncutting costs and speeding construction by using federal lands where appropriate, adopting modular and pre-fab\ndesigns, and using scalable, repeatable construction techniques to speed delivery.\n\nPostal banking\n\nBanking services through the post office like France and Italy so all Canadians have access to affordable\naccounts, financial services and loans. Postal banking breaks the payday lenders' monopoly, keeps more money in\nthe local economy and protects the most vulnerable.\n\nA public pharmaceutical manufacturer\n\nCanada once had a world-renowned public pharmaceutical company, Connaught Labs, until it was privatized by Brian\nMulroney's government. We will establish Connaught 2.0 to rebuild vaccine production capacity while reducing\nreliance on multinational pharma and foreign supply chains to ensure reliable and affordable pharmaceutical\nsupplies for Canadians.\n\nPublic Options in Action\n\nPledge your vote for Avi and support the campaign",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Read Avi's full plan for public options to make life more affordable\nhere\n.\n\nIn so many sectors of our economy, the market is failing us. While families are forced to choose between groceries\nand rent, three grocery giants dominate our food system and make billions in profits. Three big telecom companies\nmonopolize our phone and internet plans. Five big banks control our financial services sector. The result? Their\nCEOs get rich, Canadians get gouged.\n\nThe cost of living crisis we face today demands bold solutions. That means expanding public ownership to lower\nbills and improve services while creating good union jobs in the process.\n\nNDP governments have shown how that's possible. Whether it's public auto insurance in Manitoba, the agricultural\nland reserve to protect food security in BC, a public telecom provider in Saskatchewan, or of course, Medicare,\nour party has created public institutions that continue to make people's lives better and more affordable decades\nafter their creation.\n\nIt's time to take the power back from the price-fixing corporate cartels that have a stranglehold on our economy\nand put it in the hands of the people. It's time to build a new generation of public options to reduce costs and\nraise our quality of life. That's why an Avi-led NDP will push for:\n\nA public option for groceries\n\nA low-cost public alternative to the big grocery chains. By using a high volume, warehouse style model with\nsubsidized rent and utilities, and backed up by networked local and regional food hubs to bring in local foods,\ngrocery costs could be cut by as much as 30-40%.\n\nA network of public telecom providers\n\nA range of public options to lower telecom prices across the country, including a network of public telecom\nservice providers —inspired by the success of Saskatchewan's publicly-owned SaskTel —to guarantee universal,\naffordable and high-speed connectivity, including in rural, remote and Indigenous communities.\n\nBuilding a million public homes\n\nA public builder to deliver one million social, co-op, non-profit and supportive homes within five years,\ncutting costs and speeding construction by using federal lands where appropriate, adopting modular and pre-fab\ndesigns, and using scalable, repeatable construction techniques to speed delivery.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.00686203567602206,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2285,
+      "word_count": 360,
+      "token_length": 473
+    },
+    {
+      "text": "\n\nPostal banking\n\nBanking services through the post office like France and Italy so all Canadians have access to affordable\naccounts, financial services and loans. Postal banking breaks the payday lenders' monopoly, keeps more money in\nthe local economy and protects the most vulnerable.\n\nA public pharmaceutical manufacturer\n\nCanada once had a world-renowned public pharmaceutical company, Connaught Labs, until it was privatized by Brian\nMulroney's government. We will establish Connaught 2.0 to rebuild vaccine production capacity while reducing\nreliance on multinational pharma and foreign supply chains to ensure reliable and affordable pharmaceutical\nsupplies for Canadians.\n\nPublic Options in Action\n\nPledge your vote for Avi and support the campaign",
+      "label": "Human Written",
+      "ai_assistance_score": 0.009806430246680976,
+      "confidence": "High",
+      "start_index": 2285,
+      "end_index": 3042,
+      "word_count": 107,
+      "token_length": 147
+    }
+  ]
+}

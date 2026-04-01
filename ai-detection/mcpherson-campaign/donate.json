@@ -1,0 +1,25 @@
+{
+  "text": "MAXIMUM AMOUNT IS\n$\n\nYour contribution could not be authorized.\n\nPlease review your information.\n\nYou may have accidentally entered your credit card number or expiration date incorrectly. Possibly the address you provided does not match the billing address. If the contribution still does not process, contact your credit card company.\n\nBilling Information\n\nUpdate\n\n,\n\nEmail :\n\nPhone :\n\nUpdate\n\nPayment Information\n\nUpdate\n\nName on credit card :\n\nRe-enter credit card number to try again\n\nThanks for taking the time to be a part of our work on the issues that matter to people! When you submit your email address and/or personal information through ndp.ca on a form like this one, you consent to being added to our contact lists. We use this information to communicate with you about the work our NDP team is doing, and follow up with you about past and future donations and membership. While we may share your information with riding associations, we never sell your information to a third party under any circumstance, and you can unsubscribe at any time. Want to know more?\nSee our full privacy policy here.\n\n© 2026 New Democratic Party of Canada, all rights reserved.\nPaid for and authorized by the registered agent of Canada's NDP.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "MAXIMUM AMOUNT IS\n$\n\nYour contribution could not be authorized.\n\nPlease review your information.\n\nYou may have accidentally entered your credit card number or expiration date incorrectly. Possibly the address you provided does not match the billing address. If the contribution still does not process, contact your credit card company.\n\nBilling Information\n\nUpdate\n\n,\n\nEmail :\n\nPhone :\n\nUpdate\n\nPayment Information\n\nUpdate\n\nName on credit card :\n\nRe-enter credit card number to try again\n\nThanks for taking the time to be a part of our work on the issues that matter to people! When you submit your email address and/or personal information through ndp.ca on a form like this one, you consent to being added to our contact lists. We use this information to communicate with you about the work our NDP team is doing, and follow up with you about past and future donations and membership. While we may share your information with riding associations, we never sell your information to a third party under any circumstance, and you can unsubscribe at any time. Want to know more?\nSee our full privacy policy here.\n\n© 2026 New Democratic Party of Canada, all rights reserved.\nPaid for and authorized by the registered agent of Canada's NDP.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004998607560992241,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1236,
+      "word_count": 206,
+      "token_length": 248
+    }
+  ]
+}

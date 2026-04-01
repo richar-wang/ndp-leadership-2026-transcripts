@@ -1,0 +1,25 @@
+{
+  "text": "Back to         Policy\n\nThis is how we win\n\nThis plan is about more than internal reform. It is about rebuilding trust and inviting more people into the movement.\n\nWhen we organize from the ground up, we do more than elect candidates. We build a movement that lasts between elections, rooted in community, powered by people, and grounded in\nfairness, neighbourly care, and shared strength\n.\n\nWhen we stand with workers and the labour movement, we stay true to who we are and to the people who built this party. Together, we can rebuild a party rooted in fairness, community, and solidarity.\n\nThe truth is simple: if we build together, we will win together.\n\nChange starts with all of us – members, volunteers, candidates, and MPs working side by side to rebuild the NDP from the ground up and build a\nbigger table\nfor the country we want to serve.\n\nEmail:\n\nLoading…",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Back to         Policy\n\nThis is how we win\n\nThis plan is about more than internal reform. It is about rebuilding trust and inviting more people into the movement.\n\nWhen we organize from the ground up, we do more than elect candidates. We build a movement that lasts between elections, rooted in community, powered by people, and grounded in\nfairness, neighbourly care, and shared strength\n.\n\nWhen we stand with workers and the labour movement, we stay true to who we are and to the people who built this party. Together, we can rebuild a party rooted in fairness, community, and solidarity.\n\nThe truth is simple: if we build together, we will win together.\n\nChange starts with all of us – members, volunteers, candidates, and MPs working side by side to rebuild the NDP from the ground up and build a\nbigger table\nfor the country we want to serve.\n\nEmail:\n\nLoading…",
+      "label": "Human Written",
+      "ai_assistance_score": 0.15252256393432617,
+      "confidence": "Medium",
+      "start_index": 0,
+      "end_index": 865,
+      "word_count": 151,
+      "token_length": 186
+    }
+  ]
+}
